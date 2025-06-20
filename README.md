@@ -1,4 +1,4 @@
-#  Salut, je suis Mariem Mallek  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
+#  <h1 align="center"> Salut, je suis Mariem Mallek  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> <h1/>
 
 🎓 Étudiante en informatique de gestion à l’ESSECT, passionnée par les solutions technologiques , l’analyse de données et de l’innovation numérique.
 
