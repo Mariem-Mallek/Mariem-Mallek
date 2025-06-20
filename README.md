@@ -19,7 +19,7 @@
 
 ## 🌟 Centres d'intérêt
 
-🎶 **Musique** : pianiste (2 ans)  
+🎶 **Musique** : pianiste  
 🎭 **Culture** : théâtre & concerts  
 🧠 **Sciences** : passionnée de physique & anatomie
 
