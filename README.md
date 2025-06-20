@@ -1,6 +1,6 @@
 # 👋 Salut, je suis Mariem Mallek
 
-🎓 Étudiante en informatique de gestion à l’ESSECT, passionnée par le développement web et les technologies émergentes comme l’IA.
+🎓 Étudiante en informatique de gestion à l’ESSECT, passionnée par les solutions technologiques , l’analyse de données et de l’innovation numérique.
 
 💡 Je suis toujours à la recherche de projets pour apprendre, collaborer et évoluer.
 
