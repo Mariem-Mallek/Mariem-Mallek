@@ -34,6 +34,13 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Mariem-Mallek&icon=0&color=0)](https://visitcount.itsvg.in)
 
+### ⌛ Activité de la semaine (via WakaTime)
+
+```text
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 
 ## 🌟 Centres d'intérêt
 
