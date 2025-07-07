@@ -2,12 +2,14 @@ name: Waka Readme
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Tous les jours à minuit UTC
+    - cron: '0 * * * *' # runs every hour
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   update-readme:
-    name: Update WakaTime Stats
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master
