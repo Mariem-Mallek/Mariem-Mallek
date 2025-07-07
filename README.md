@@ -37,6 +37,15 @@
 
 ## ⌛ Activité de la semaine (via WakaTime)
 <!--START_SECTION:waka-->
+
+```txt
+Python           17 hrs 20 mins  █████████████████░░░░░░░░   68.03 %
+JavaScript       3 hrs 34 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.06 %
+Docker           1 hr 2 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
+TOML             43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
+Text             41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
+```
+
 <!--END_SECTION:waka-->
 
 
