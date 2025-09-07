@@ -39,9 +39,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Dart                6 hrs 30 mins   ██████████████████████▒░░   89.33 %
-Gradle Kotlin DSL   45 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.42 %
-YAML                1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+Dart                10 hrs 23 mins  ██████████████████████▒░░   89.69 %
+Gradle Kotlin DSL   49 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.05 %
+JavaScript          12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
+YAML                9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
 ```
 
 <!--END_SECTION:waka-->
