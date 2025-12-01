@@ -39,9 +39,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   11 hrs 13 mins  ████████████████████████░   96.44 %
-Dart         21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
-Markdown     3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+JavaScript          7 hrs 46 mins   ███████████████████████▓░   94.91 %
+Dart                21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
+Markdown            3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+Gradle Kotlin DSL   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
